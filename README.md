@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fithillo
+- 👀 I’m interested in full-stack developing
+- 🌱 I’m currently learning front-end & back-end
+- 💞️ I’m looking to collaborate on new programs, projects.
+- 📫 psfer10reen11@gmail.com
